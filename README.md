@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Cash-Parked-Domians.com
 
 You can use the [editor on GitHub](https://github.com/cash-parked-domains/www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
