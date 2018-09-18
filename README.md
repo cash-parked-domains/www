@@ -6,7 +6,7 @@ Domain parking refers to the registration of a domain without the domain using a
 
 Domain parking falls into two categories, monetized and non-monetized. In the former, advertising is displayed to visitors and the domain is "monetized". In the latter, an "Under Construction" or a "Coming Soon" may be shown on the website. This is a single-page website that people see when they visit the domain or follow a link in a web browser. Domains can be parked before a website is ready for launch.
 
-![parked money](src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12040868310/original/5zHz_PdOEUBmwW-VRN8hUqgrF5msdxI0eA.jpg?1537262830")
+![parked money](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12040868310/original/5zHz_PdOEUBmwW-VRN8hUqgrF5msdxI0eA.jpg?1537262830)
 
 ## Cash parked domain's 
 
