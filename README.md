@@ -1,4 +1,4 @@
-# Welcome to Cash-Parked-Domians.com
+# Welcome to Cash-Parked-Domains.com
 
 ## Domain parking 
 
