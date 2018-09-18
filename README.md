@@ -6,7 +6,7 @@ Domain parking falls into two categories, monetized and non-monetized. In the fo
 
 ## Cash parked domain's 
 
-![parked money](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12040879160/original/2wZ-dCLrm_vAaYocK2ojn41cPyxnVxRlfQ.png?1537276112)
+![parked money](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12040879812/original/18htJu4NYwQmINCLU4Tdk-EzcT-QeCA_Zw.png?1537276662)
 
 Domain parking refers to an advertising practice, called "cash parked domains", used by domain registrars and advertising companies to monetize, traffic visiting the domain. The domain will go to a web page containing advertising listings and links. These links are targeted to the interests of the visitor and may change based on the results that they click on. Usually, the domain owner is paid based on how many links have been visited (e.g. pay per click). The keywords for any given domain name provide clues about the intent of the visitor before arriving on the parked domain. If I was trying to go to ebay.com but typed in dbay.com, then I would likely have auction websites advertised to me.
 
