@@ -1,5 +1,3 @@
-# Welcome to Cash Parked Domains.com
-
 ## Domain parking 
 
 Domain parking refers to the registration of a domain without the domain using any services, such as a mail server or a website. This may have been with a view to reserving the domain for a future website. Since the domain name registrar will have set name servers for the domain, the registrar or reseller has use of the domain rather than the final registrant.
