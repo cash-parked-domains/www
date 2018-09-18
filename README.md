@@ -1,16 +1,16 @@
 # Welcome to Cash-Parked-Domians.com
 
-##Domain parking 
+## Domain parking 
 
 Domain parking refers to the registration of a domain without the domain using any services, such as a mail server or a website. This may have been with a view to reserving the domain for a future website. Since the domain name registrar will have set name servers for the domain, the registrar or reseller has use of the domain rather than the final registrant.
 
 Domain parking falls into two categories, monetized and non-monetized. In the former, advertising is displayed to visitors and the domain is "monetized". In the latter, an "Under Construction" or a "Coming Soon" may be shown on the website. This is a single-page website that people see when they visit the domain or follow a link in a web browser. Domains can be parked before a website is ready for launch.
 
-##Cash parked domain's 
+## Cash parked domain's 
 
 Domain parking refers to an advertising practice, called "cash parked domains", used by domain registrars and advertising companies to monetize, traffic visiting the domain. The domain will go to a web page containing advertising listings and links. These links are targeted to the interests of the visitor and may change based on the results that they click on. Usually, the domain owner is paid based on how many links have been visited (e.g. pay per click). The keywords for any given domain name provide clues about the intent of the visitor before arriving on the parked domain. If I was trying to go to ebay.com but typed in dbay.com, then I would likely have auction websites advertised to me.
 
-##Expired domains
+## Expired domains
 
 Expired domains that were websites are also sought after for parked domain monetization. A domain that was a website and expires will still maintain most of its inbound links. These domains usually attract the largest amount of visitor traffic. As website operators and search engines like google start to remove the inbound links, the traffic to the parked domain will begin to decline. The process of re-registering expired names is known as drop catching or domain sniping and various domain name registries have different views on the subject. 
  
