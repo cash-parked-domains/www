@@ -1,4 +1,4 @@
-##Cash Parked Domain Detector
+## Cash Parked Domain Detector
 Detect domains that are cash parked - https://rapidapi.com/emailhippo/api/cash-parked-domain-detector
 
 ## Domain parking 
