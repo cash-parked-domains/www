@@ -1,3 +1,6 @@
+##Cash Parked Domain Detector
+Detect domains that are cash parked - https://rapidapi.com/emailhippo/api/cash-parked-domain-detector
+
 ## Domain parking 
 
 Domain parking refers to the registration of a domain without the domain using any services, such as a mail server or a website. This may have been with a view to reserving the domain for a future website. Since the domain name registrar will have set name servers for the domain, the registrar or reseller has use of the domain rather than the final registrant.
@@ -18,3 +21,6 @@ Expired domains that were websites are also sought after for parked domain monet
  
 
 There are several companies that actively cater to domain parking and act as middlemen to serve advertisements on parking pages. The adverts are automatically added on a domain holder's website domain when they either change the name servers or forward the URL. Most cash parked domains are generally for sale, there is usually a link to a form to inquire about the domain's price.  I have also seen some pages where the domain is listed as having an auction date. Some companies offer as much as 80% of the revenue back to the owner of the domain name. 80% is the most generous offer I have seen with some companies offering as little as 50% of the revenue generated back to the owner. Please research the company you plan to park your domain with, while many are reputable. I have heard some horror stories of domain holders not being paid by certain cash parking companies. 
+
+##Cash Parked Domain Detector
+Detect domains that are cash parked - https://rapidapi.com/emailhippo/api/cash-parked-domain-detector
