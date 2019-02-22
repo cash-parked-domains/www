@@ -1,5 +1,5 @@
 ## Cash Parked Domain Detector
-Detect cash parked domains in seconds - (https://rapidapi.com/emailhippo/api/cash-parked-domain-detector)
+Detect cash parked domains in seconds - [https://rapidapi.com/emailhippo/api/cash-parked-domain-detector]
 
 ## Domain parking 
 
@@ -23,4 +23,4 @@ Expired domains that were websites are also sought after for parked domain monet
 There are several companies that actively cater to domain parking and act as middlemen to serve advertisements on parking pages. The adverts are automatically added on a domain holder's website domain when they either change the name servers or forward the URL. Most cash parked domains are generally for sale, there is usually a link to a form to inquire about the domain's price.  I have also seen some pages where the domain is listed as having an auction date. Some companies offer as much as 80% of the revenue back to the owner of the domain name. 80% is the most generous offer I have seen with some companies offering as little as 50% of the revenue generated back to the owner. Please research the company you plan to park your domain with, while many are reputable. I have heard some horror stories of domain holders not being paid by certain cash parking companies. 
 
 ## Cash Parked Domain Detector
-Detect cash parked domains in seconds - (https://rapidapi.com/emailhippo/api/cash-parked-domain-detector)
+Detect cash parked domains in seconds - [https://rapidapi.com/emailhippo/api/cash-parked-domain-detector]
